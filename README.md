@@ -1,4 +1,4 @@
-# markdownhelper README
+# MarkdownHelper for VScode
 
 This is the README for your extension "markdownhelper". After writing up a brief description, we recommend including the following sections.
 
